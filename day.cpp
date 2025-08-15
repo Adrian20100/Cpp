@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    int day = 2;
+    int day = 8;
     switch (day)
     {
     case 1:
@@ -29,6 +29,8 @@ int main()
     case 7:
         cout << "Sunday";
         break;
+    default:
+        cout << "Looking forward to the other planets";
     }
     return 0;
 }
