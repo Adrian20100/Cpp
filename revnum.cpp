@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    int numbers = 12345;
+    int numbers = 123456;
 
     int revNumbers = 0;
 
